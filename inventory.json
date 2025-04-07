@@ -1,0 +1,5 @@
+
+[
+  { "code": "123456789012", "name": "Item A", "checked": false },
+  { "code": "987654321098", "name": "Item B", "checked": false }
+]
